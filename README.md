@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm boni lokesh</h1>
-<h3 align="center">A passionate machine learning and full stack developer</h3>
+<h3 align="center">Passionate Computer Science student with strong problem-solving skills, hands-on experience in web development and deep learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bonilokesh&label=Profile%20views&color=0e75b6&style=flat" alt="bonilokesh" /> </p>
 
