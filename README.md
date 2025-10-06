@@ -7,7 +7,14 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/http://linkedin.com/in/lokesh-boni-2ba033240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/lokesh-boni-2ba033240" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/boni_lokesh123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="boni_lokesh123" height="30" width="40" /></a>
+<a href="mailto:bonilokesh2003@gmail.com" target="_blank">
+  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="gmail" height="30" width="40" />
+</a>
+
+
+
+
+
 </p>
 
 <h4 align="left">Languages and Tools:</h4>
